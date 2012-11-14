@@ -71,6 +71,7 @@ class Winkelmand {
     public function mandLeegmaken() {
 
         // DIY
+        $mand = array();
 
     }
 
